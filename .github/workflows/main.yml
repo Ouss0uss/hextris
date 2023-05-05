@@ -12,6 +12,6 @@ jobs:
       with:
         server: files.000webhost.com
         username: coursouss
-        password: CiCwpRiCu7(Pxzz((Ent*
+        password: iCwpRiCu7(Pxzz((Ent*
         server-dir: public_html/
 	 timeout: 90000
