@@ -2,7 +2,7 @@ function Block(fallingLane, color, iter, distFromHex, settled) {
 	// whether or not a block is rested on the center hex or another block
 	this.settled = (settled === undefined) ? 0 : 1;
 	this.height = settings.blockHeight;
-	//the lane which the block was shot from
+	//the lane which the block was shot from.
 	this.fallingLane = fallingLane;
 
 		this.checked=0;
