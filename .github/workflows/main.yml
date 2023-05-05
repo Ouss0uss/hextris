@@ -13,5 +13,5 @@ jobs:
         server: files.000webhost.com
         username: coursouss
         password: Outhman2001
-        server-dir: public_html/
+        server-dir: public_html
 	timeout: 90000
