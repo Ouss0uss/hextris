@@ -10,8 +10,8 @@ jobs:
     - name: Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
-        server: files.000webhost.com
-        username: projetnf083
-        password: iCwpRiCu7(Pxzz((Ent*
+        server: coursouss.000webhost.com
+        username: fofanaouthman
+        password: ClavierGravier922001++
         server-dir: public_html/
 	 timeout: 90000
